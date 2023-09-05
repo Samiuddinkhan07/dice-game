@@ -20,7 +20,7 @@ Welcome to the Dice Game project! This is a simple web-based dice game built usi
 
 ## Demo
 
-You can try out the live demo of the game here: [Live Demo](#)
+You can try out the live demo of the game here: samiuddinkhan07.netlify.app
 
 ## Features
 
