@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Dice Game
 
 Welcome to the Dice Game project! This is a simple web-based dice game built using React and Vite, with styling implemented using Styled Components.
