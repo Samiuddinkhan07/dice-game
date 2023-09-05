@@ -45,7 +45,7 @@ Before you begin, ensure you have the following tools installed:
    git clone https://github.com/yourusername/dice-game.git
    
   1.Navigate to the project directory:
-   ``` cd dice-game ```:
+   ``` cd dice-game ``` </br>
   2.Install project dependencies:
   ``` npm install ```
 
