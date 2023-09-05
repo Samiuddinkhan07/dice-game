@@ -1,7 +1,10 @@
-<<<<<<< HEAD
+
 # Dice Game
 
 Welcome to the Dice Game project! This is a simple web-based dice game built using React and Vite, with styling implemented using Styled Components.
+
+![image](https://github.com/Samiuddinkhan07/dice-game/assets/104217177/c330aa95-82a5-4491-a93c-25686c3d3a25)
+
 
 ## Table of Contents
 
@@ -42,23 +45,20 @@ Before you begin, ensure you have the following tools installed:
    git clone https://github.com/yourusername/dice-game.git
    
   1.Navigate to the project directory:
-   ``` cd dice-game ```
+   ``` cd dice-game ``` </br></br>
   2.Install project dependencies:
   ``` npm install ```
 
-###Usage
+### Usage
 
 1.Start the development server:
   ``` npm run dev ```
 
 2.Open your web browser and visit http://localhost:5173 or The local host that you get when you run the project to play the game.
 
-###Styled Components
+### Styled Components
 
-This project utilizes Styled Components for styling. Styled Components is a popular CSS-in-JS library that allows you to write actual CSS code to style your React components. It offers a seamless way to manage styles within your application.
-
-You can find the styled components used throughout the project in the src directory, specifically within the components folder. Styling is modular and component-specific, making it easy to maintain and extend.
+<p>This project utilizes Styled Components for styling. Styled Components is a popular CSS-in-JS library that allows you to write actual CSS code to style your React components. It offers a seamless way to manage styles within your application.
+You can find the styled components used throughout the project in the src directory, specifically within the components folder. Styling is modular and component-specific, making it easy to maintain and extend.</p>
 =======
-# dice-game
-This React app is a simple dice game
->>>>>>> cab9c2eadfef5cdbbb6ea93da1605ac68c70562e
+
