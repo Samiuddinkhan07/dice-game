@@ -46,14 +46,14 @@ Before you begin, ensure you have the following tools installed:
   2.Install project dependencies:
   ``` npm install ```
 
-###Usage
+### Usage
 
 1.Start the development server:
   ``` npm run dev ```
 
 2.Open your web browser and visit http://localhost:5173 or The local host that you get when you run the project to play the game.
 
-###Styled Components
+### Styled Components
 
 This project utilizes Styled Components for styling. Styled Components is a popular CSS-in-JS library that allows you to write actual CSS code to style your React components. It offers a seamless way to manage styles within your application.
 
